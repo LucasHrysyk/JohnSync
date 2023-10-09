@@ -205,7 +205,7 @@ main h2 {
 /*Sobre*/
 #sobre{
     padding: 50px 0px;
-    background: url(/img/redes.jpg);
+    background: url(img/redes.jpg);
     background-size: cover;
    background-position: center;
 }
@@ -252,7 +252,7 @@ padding: 50px 10px;
  /*Rodapé*/
 address{
     padding: 35px 10px 50px 10px;
-    background: url(/img/redes.jpg);
+    background: url(img/redes.jpg);
     background-size: cover;
     background-position: center;
     color: #fff;
